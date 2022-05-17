@@ -1,0 +1,22 @@
+{
+    "C_Cpp.intelliSenseEngineFallback": "Enabled",
+    "C_Cpp.intelliSenseEngine": "Tag Parser",
+    "files.associations": {
+        "*.txt": "cmake",
+        "thread": "cpp",
+        "__locale": "cpp",
+        "locale": "cpp",
+        "array": "cpp",
+        "__tuple": "cpp",
+        "random": "cpp",
+        "__config": "cpp",
+        "algorithm": "cpp",
+        "ios": "cpp",
+        "ostream": "cpp",
+        "*.tcc": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "filesystem": "cpp",
+        "iosfwd": "cpp"
+    }
+}

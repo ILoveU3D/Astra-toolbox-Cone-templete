@@ -1,0 +1,5 @@
+/media/seu/wyk/实验室/astra_templete/build/CMakeFiles/rebuild_cache.dir
+/media/seu/wyk/实验室/astra_templete/build/CMakeFiles/edit_cache.dir
+/media/seu/wyk/实验室/astra_templete/build/CMakeFiles/main.dir
+/media/seu/wyk/实验室/astra_templete/build/CMakeFiles/3D.dir
+/media/seu/wyk/实验室/astra_templete/build/CMakeFiles/2D.dir

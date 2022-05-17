@@ -1,0 +1,457 @@
+[
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/src/ConeProjector.cpp.o -c /media/seu/wyk/实验室/astra_templete/src/ConeProjector.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/src/ConeProjector.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/src/Radon.cpp.o -c /media/seu/wyk/实验室/astra_templete/src/Radon.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/src/Radon.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/Algorithm.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/Algorithm.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/Algorithm.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/ArtAlgorithm.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/ArtAlgorithm.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/ArtAlgorithm.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/AstraObjectFactory.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/AstraObjectFactory.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/AstraObjectFactory.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/AstraObjectManager.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/AstraObjectManager.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/AstraObjectManager.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/AsyncAlgorithm.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/AsyncAlgorithm.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/AsyncAlgorithm.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/BackProjectionAlgorithm.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/BackProjectionAlgorithm.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/BackProjectionAlgorithm.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/CglsAlgorithm.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/CglsAlgorithm.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/CglsAlgorithm.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/CompositeGeometryManager.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/CompositeGeometryManager.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/CompositeGeometryManager.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/ConeProjectionGeometry3D.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/ConeProjectionGeometry3D.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/ConeProjectionGeometry3D.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/ConeVecProjectionGeometry3D.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/ConeVecProjectionGeometry3D.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/ConeVecProjectionGeometry3D.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/Config.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/Config.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/Config.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/CudaBackProjectionAlgorithm.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/CudaBackProjectionAlgorithm.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/CudaBackProjectionAlgorithm.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/CudaBackProjectionAlgorithm3D.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/CudaBackProjectionAlgorithm3D.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/CudaBackProjectionAlgorithm3D.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/CudaCglsAlgorithm.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/CudaCglsAlgorithm.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/CudaCglsAlgorithm.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/CudaCglsAlgorithm3D.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/CudaCglsAlgorithm3D.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/CudaCglsAlgorithm3D.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/CudaDartMaskAlgorithm.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/CudaDartMaskAlgorithm.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/CudaDartMaskAlgorithm.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/CudaDartMaskAlgorithm3D.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/CudaDartMaskAlgorithm3D.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/CudaDartMaskAlgorithm3D.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/CudaDartSmoothingAlgorithm.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/CudaDartSmoothingAlgorithm.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/CudaDartSmoothingAlgorithm.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/CudaDartSmoothingAlgorithm3D.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/CudaDartSmoothingAlgorithm3D.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/CudaDartSmoothingAlgorithm3D.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/CudaDataOperationAlgorithm.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/CudaDataOperationAlgorithm.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/CudaDataOperationAlgorithm.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/CudaEMAlgorithm.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/CudaEMAlgorithm.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/CudaEMAlgorithm.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/CudaFDKAlgorithm3D.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/CudaFDKAlgorithm3D.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/CudaFDKAlgorithm3D.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/CudaFilteredBackProjectionAlgorithm.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/CudaFilteredBackProjectionAlgorithm.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/CudaFilteredBackProjectionAlgorithm.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/CudaForwardProjectionAlgorithm.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/CudaForwardProjectionAlgorithm.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/CudaForwardProjectionAlgorithm.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/CudaForwardProjectionAlgorithm3D.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/CudaForwardProjectionAlgorithm3D.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/CudaForwardProjectionAlgorithm3D.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/CudaProjector2D.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/CudaProjector2D.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/CudaProjector2D.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/CudaProjector3D.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/CudaProjector3D.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/CudaProjector3D.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/CudaReconstructionAlgorithm2D.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/CudaReconstructionAlgorithm2D.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/CudaReconstructionAlgorithm2D.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/CudaRoiSelectAlgorithm.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/CudaRoiSelectAlgorithm.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/CudaRoiSelectAlgorithm.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/CudaSartAlgorithm.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/CudaSartAlgorithm.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/CudaSartAlgorithm.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/CudaSirtAlgorithm.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/CudaSirtAlgorithm.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/CudaSirtAlgorithm.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/CudaSirtAlgorithm3D.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/CudaSirtAlgorithm3D.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/CudaSirtAlgorithm3D.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/DataProjector.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/DataProjector.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/DataProjector.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/DataProjectorPolicies.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/DataProjectorPolicies.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/DataProjectorPolicies.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/FanFlatBeamLineKernelProjector2D.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/FanFlatBeamLineKernelProjector2D.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/FanFlatBeamLineKernelProjector2D.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/FanFlatBeamStripKernelProjector2D.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/FanFlatBeamStripKernelProjector2D.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/FanFlatBeamStripKernelProjector2D.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/FanFlatProjectionGeometry2D.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/FanFlatProjectionGeometry2D.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/FanFlatProjectionGeometry2D.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/FanFlatVecProjectionGeometry2D.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/FanFlatVecProjectionGeometry2D.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/FanFlatVecProjectionGeometry2D.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/Features.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/Features.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/Features.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/FilteredBackProjectionAlgorithm.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/FilteredBackProjectionAlgorithm.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/FilteredBackProjectionAlgorithm.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/Filters.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/Filters.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/Filters.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/Float32Data.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/Float32Data.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/Float32Data.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/Float32Data2D.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/Float32Data2D.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/Float32Data2D.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/Float32Data3D.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/Float32Data3D.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/Float32Data3D.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/Float32Data3DGPU.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/Float32Data3DGPU.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/Float32Data3DGPU.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/Float32Data3DMemory.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/Float32Data3DMemory.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/Float32Data3DMemory.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/Float32ProjectionData2D.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/Float32ProjectionData2D.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/Float32ProjectionData2D.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/Float32ProjectionData3D.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/Float32ProjectionData3D.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/Float32ProjectionData3D.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/Float32ProjectionData3DGPU.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/Float32ProjectionData3DGPU.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/Float32ProjectionData3DGPU.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/Float32ProjectionData3DMemory.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/Float32ProjectionData3DMemory.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/Float32ProjectionData3DMemory.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/Float32VolumeData2D.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/Float32VolumeData2D.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/Float32VolumeData2D.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/Float32VolumeData3D.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/Float32VolumeData3D.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/Float32VolumeData3D.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/Float32VolumeData3DGPU.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/Float32VolumeData3DGPU.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/Float32VolumeData3DGPU.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/Float32VolumeData3DMemory.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/Float32VolumeData3DMemory.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/Float32VolumeData3DMemory.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/ForwardProjectionAlgorithm.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/ForwardProjectionAlgorithm.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/ForwardProjectionAlgorithm.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/Fourier.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/Fourier.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/Fourier.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/GeometryUtil2D.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/GeometryUtil2D.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/GeometryUtil2D.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/GeometryUtil3D.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/GeometryUtil3D.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/GeometryUtil3D.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/Globals.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/Globals.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/Globals.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/Logging.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/Logging.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/Logging.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/ParallelBeamBlobKernelProjector2D.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/ParallelBeamBlobKernelProjector2D.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/ParallelBeamBlobKernelProjector2D.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/ParallelBeamDistanceDrivenProjector2D.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/ParallelBeamDistanceDrivenProjector2D.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/ParallelBeamDistanceDrivenProjector2D.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/ParallelBeamLineKernelProjector2D.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/ParallelBeamLineKernelProjector2D.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/ParallelBeamLineKernelProjector2D.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/ParallelBeamLinearKernelProjector2D.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/ParallelBeamLinearKernelProjector2D.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/ParallelBeamLinearKernelProjector2D.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/ParallelBeamStripKernelProjector2D.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/ParallelBeamStripKernelProjector2D.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/ParallelBeamStripKernelProjector2D.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/ParallelProjectionGeometry2D.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/ParallelProjectionGeometry2D.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/ParallelProjectionGeometry2D.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/ParallelProjectionGeometry3D.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/ParallelProjectionGeometry3D.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/ParallelProjectionGeometry3D.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/ParallelVecProjectionGeometry2D.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/ParallelVecProjectionGeometry2D.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/ParallelVecProjectionGeometry2D.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/ParallelVecProjectionGeometry3D.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/ParallelVecProjectionGeometry3D.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/ParallelVecProjectionGeometry3D.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/PlatformDepSystemCode.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/PlatformDepSystemCode.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/PlatformDepSystemCode.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/PluginAlgorithmFactory.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/PluginAlgorithmFactory.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/PluginAlgorithmFactory.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/ProjectionGeometry2D.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/ProjectionGeometry2D.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/ProjectionGeometry2D.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/ProjectionGeometry3D.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/ProjectionGeometry3D.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/ProjectionGeometry3D.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/Projector2D.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/Projector2D.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/Projector2D.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/Projector3D.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/Projector3D.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/Projector3D.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/ReconstructionAlgorithm2D.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/ReconstructionAlgorithm2D.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/ReconstructionAlgorithm2D.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/ReconstructionAlgorithm3D.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/ReconstructionAlgorithm3D.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/ReconstructionAlgorithm3D.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/SartAlgorithm.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/SartAlgorithm.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/SartAlgorithm.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/SirtAlgorithm.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/SirtAlgorithm.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/SirtAlgorithm.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/SparseMatrix.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/SparseMatrix.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/SparseMatrix.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/SparseMatrixProjectionGeometry2D.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/SparseMatrixProjectionGeometry2D.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/SparseMatrixProjectionGeometry2D.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/SparseMatrixProjector2D.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/SparseMatrixProjector2D.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/SparseMatrixProjector2D.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/Utilities.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/Utilities.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/Utilities.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/Vector3D.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/Vector3D.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/Vector3D.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/VolumeGeometry2D.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/VolumeGeometry2D.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/VolumeGeometry2D.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/VolumeGeometry3D.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/VolumeGeometry3D.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/VolumeGeometry3D.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/XMLDocument.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/XMLDocument.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/XMLDocument.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/astra-2.1.0/XMLNode.cpp.o -c /media/seu/wyk/实验室/astra_templete/astra-2.1.0/XMLNode.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/astra-2.1.0/XMLNode.cpp"
+},
+{
+  "directory": "/media/seu/wyk/实验室/astra_templete/build",
+  "command": "/usr/local/cuda/bin/nvcc -DASTRA_CUDA -I../include -I../astra-2.1.0/astra -I../astra-2.1.0/astra/cuda/2d -I../astra-2.1.0/astra/cuda/3d -I/usr/local/cuda/include -g -o CMakeFiles/main.dir/main.cpp.o -c /media/seu/wyk/实验室/astra_templete/main.cpp",
+  "file": "/media/seu/wyk/实验室/astra_templete/main.cpp"
+}
+]
