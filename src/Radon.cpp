@@ -2,6 +2,7 @@
 #include"../astra-2.1.0/astra/CudaForwardProjectionAlgorithm3D.h"
 #include"../astra-2.1.0/astra/CudaBackProjectionAlgorithm3D.h"
 #include"../astra-2.1.0/astra/CudaFDKAlgorithm3D.h"
+#include"../astra-2.1.0/astra/CudaSirtAlgorithm3D.h"
 
 namespace Transform{
     void createForwardProjection(CFloat32ProjectionData3D *sino, CFloat32VolumeData3D* volume, CProjector3D *projector){
@@ -19,5 +20,9 @@ namespace Transform{
         algorithm->initialize(projector, sino, volume);
         algorithm->run();
     }
-
+    void ART(CFloat32ProjectionData3D *sino, CFloat32VolumeData3D* volume, CProjector3D *projector){
+        CCudaSirtAlgorithm3D *algorithm = new CCudaSirtAlgorithm3D();
+        algorithm->initialize(projector, dynamic_cast<CFloat32ProjectionData3DMemory *>(sino), dynamic_cast<CFloat32VolumeData3DMemory *>(volume));
+        algorithm->run();
+    }
 }

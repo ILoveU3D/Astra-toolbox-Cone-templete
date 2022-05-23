@@ -20,7 +20,8 @@ int main(){
 	//正投影/反投影/FDK
 	Transform::createForwardProjection(sino, volume, projector);
 	//Transform::createBackProjection(sino, volume, projector);
-	Transform::FDK(sino, volume, projector);
+	//Transform::FDK(sino, volume, projector);
+	Transform::ART(sino, volume, projector);
 
 	//保存数据
 	ConeGeometry::saveVolume(outputPath, volume);

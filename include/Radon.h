@@ -7,4 +7,5 @@ namespace Transform{
     void createForwardProjection(CFloat32ProjectionData3D *sino, CFloat32VolumeData3D* volume, CProjector3D *projector);
     void createBackProjection(CFloat32ProjectionData3D *sino, CFloat32VolumeData3D* volume, CProjector3D *projector);
     void FDK(CFloat32ProjectionData3D *sino, CFloat32VolumeData3D* volume, CProjector3D *projector);
+    void ART(CFloat32ProjectionData3D *sino, CFloat32VolumeData3D* volume, CProjector3D *projector);
 }
